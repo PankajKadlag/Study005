@@ -1,3 +1,6 @@
 Take 01
 Take 02
 Take 03
+Take 01
+Take 02
+Take 03
